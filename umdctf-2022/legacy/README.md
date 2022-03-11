@@ -7,6 +7,8 @@
 >
 > `0.cloud.chals.io 28964`
 
+Category: *pwn*
+
 ## Summary
 
 Exploit input vulnerability in Python 2.
