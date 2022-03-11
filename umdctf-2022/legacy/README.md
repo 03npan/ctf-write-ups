@@ -11,7 +11,7 @@ Category: *pwn*
 
 ## Summary
 
-Exploit input vulnerability in Python 2.
+Exploit input vulnerability in Python 2 to get the flag.
 
 ## Detailed Solution
 
