@@ -1,11 +1,11 @@
 # UMDCTF 2022
 ## Legacy
 
->Fred just won’t keep up with the times. Why don't you show him the error of his ways?
+> Fred just won’t keep up with the times. Why don't you show him the error of his ways?
 >
->**Author**: esiddali
+> **Author**: esiddali
 >
->`0.cloud.chals.io 28964`
+> `0.cloud.chals.io 28964`
 
 Category: *pwn*
 
