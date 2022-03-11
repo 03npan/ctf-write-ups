@@ -35,4 +35,4 @@ ONLY USE THIS ACCOUNT FOR THINGS THAT NEED ESCALATED PRIVS
 7. Verify VU1EQ1RGe2YwcmtfYjBtYjVfNHIzXzRfYjRkXzcxbTN9
 ```
 
-Decoding the base64 string gets us the flag: UMDCTF{f0rk_b0mb5_4r3_4_b4d_71m3}
+Decoding the base64 string gets us the flag: `UMDCTF{f0rk_b0mb5_4r3_4_b4d_71m3}`
