@@ -6,6 +6,8 @@
 > VM Password: 1_w1ll_n07_br34k_7h15
 >
 > [https://drive.google.com/drive/folders/1gE4Idj6DjhJ3AX64tOL3Tp31k8gurj94?usp=sharing](https://drive.google.com/drive/folders/1gE4Idj6DjhJ3AX64tOL3Tp31k8gurj94?usp=sharing)
+>
+> **Author**: amanthanvi
 
 Category: *forensics*
 
