@@ -7,7 +7,7 @@
 
 ## Summary
 
-Fairly straightforward, exploit input vulnerability in Python 2.
+Exploit input vulnerability in Python 2.
 
 ## Detailed Solution
 
