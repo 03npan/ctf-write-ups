@@ -50,8 +50,10 @@ Let's take another look at the source code: `if check2(str(ctx.created_at)):` (l
 So `check2` is comparing the time that we sent our message at:
 
 `something = int(hmm.split(':')[-1].split('.')[0])`
-    `if (something > 45 and something < 50) or (something > 14 and something < 19):`
-        `return True`
+
+`if (something > 45 and something < 50) or (something > 14 and something < 19):`
+
+`return True`
 
 Looking up the created_at field, we find that it returns the time as a datetime.datetime object, formatted as `YYYY-MM-DD HH:MM:SS.Millis`. Splitting this using the code above gives us the specific second that the message was sent. So to get the flag, we need to send the message sometime between either 45-50 seconds or 14-19 seconds.
 
