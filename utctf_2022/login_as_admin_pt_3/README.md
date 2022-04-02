@@ -7,7 +7,7 @@
 >
 > By Aya Abdelgawad (@Aya the Awesome on discord)
 >
-> [app.py](https://github.com/03npan/ctf-write-ups/blob/main/utctf-2022/login_as_admin_pt_3/app.py)
+> [app.py](https://github.com/03npan/ctf-write-ups/blob/main/utctf_2022/login_as_admin_pt_3/app.py)
 
 Category: *Beginner*
 
@@ -19,6 +19,6 @@ Send a POST request using `curl` to get the flag.
 
 Login attempts from the website provided always fail. Looking into the python file provided, we see that the program is looking for a POST request with three key-value pairs (more than can be provided on the web login). Let's craft a POST request using `curl`:
 
-![flag.png](https://github.com/03npan/ctf-write-ups/blob/main/utctf-2022/login_as_admin_pt_3/flag.png)
+![flag.png](https://github.com/03npan/ctf-write-ups/blob/main/utctf_2022/login_as_admin_pt_3/flag.png)
 
 Flag: `utflag{omg_why_not_upd8_pwd!?!}`
