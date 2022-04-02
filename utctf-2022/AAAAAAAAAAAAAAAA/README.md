@@ -5,8 +5,6 @@
 >
 > By Tristan (@trab on discord)
 >
-> nc pwn.utctf.live 5000
->
 > [AAAAAAAAAAAAAAAA](https://github.com/03npan/ctf-write-ups/blob/main/utctf-2022/AAAAAAAAAAAAAAAA/AAAAAAAAAAAAAAAA)
 
 Category: *Beginner*
