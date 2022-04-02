@@ -21,4 +21,4 @@ Install [Disk Drill](https://www.cleverfiles.com/usb-flash-drive-recovery.html).
 
 In the `Reconstructed labeled` category, there is one PNG file: `most_secure_password`. Clicking on it gives us the flag.
 
-![flag.png](https://github.com/03npan/ctf-write-ups/blob/main/umdctf-2022/renziks_case/flag.png)
+![flag.png](https://github.com/03npan/ctf-write-ups/blob/main/umdctf_2022/renziks_case/flag.png)

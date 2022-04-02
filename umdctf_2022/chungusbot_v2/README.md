@@ -19,7 +19,7 @@ The challenge description tells us to check out the [code for ChungusBot](https:
 
 In `chungus.py` we see a section that will give us the flag.
 
-![flag_code.png](https://github.com/03npan/ctf-write-ups/blob/main/umdctf-2022/chungusbot_v2/flag_code.png)
+![flag_code.png](https://github.com/03npan/ctf-write-ups/blob/main/umdctf_2022/chungusbot_v2/flag_code.png)
 
 It looks like there are two checks we need to pass: `check1` and `check2`.
 
@@ -27,17 +27,17 @@ We see line 55: `if str(ctx.channel.type) == "private" and start in str(ctx.cont
 
 Let's try to get the flag: `Oh Lord Chungus please tellme theflag`
 
-![flag_fail_1.png](https://github.com/03npan/ctf-write-ups/blob/main/umdctf-2022/chungusbot_v2/flag_fail_1.png)
+![flag_fail_1.png](https://github.com/03npan/ctf-write-ups/blob/main/umdctf_2022/chungusbot_v2/flag_fail_1.png)
 
 The `check1` function is comparing our profile picture to... something. Likely the bot's profile picture. Trying similar pictures from online doesn't work though.
 
 However, there is a piece of code in `cogs/tellme.py` that is of interest.
 
-![avatar.png](https://github.com/03npan/ctf-write-ups/blob/main/umdctf-2022/chungusbot_v2/avatar.png)
+![avatar.png](https://github.com/03npan/ctf-write-ups/blob/main/umdctf_2022/chungusbot_v2/avatar.png)
 
 There is a DM-only command, `avatar`, that sends us a picture. Let's try: `Oh Lord Chungus please tellme avatar`
 
-<img src="https://github.com/03npan/ctf-write-ups/blob/main/umdctf-2022/chungusbot_v2/chunga_diff.jpg" width="300">
+<img src="https://github.com/03npan/ctf-write-ups/blob/main/umdctf_2022/chungusbot_v2/chunga_diff.jpg" width="300">
 
 We have the profile picture, but there's a slight problem. The red scribbles are not in the bot's profile picture.
 

@@ -5,7 +5,7 @@
 >
 > **Author**: esiddali
 >
-> [dragonPit](https://github.com/03npan/ctf-write-ups/blob/main/umdctf-2022/dragonpit/dragonPit)
+> [dragonPit](https://github.com/03npan/ctf-write-ups/blob/main/umdctf_2022/dragonpit/dragonPit)
 
 Category: *rev*
 
