@@ -9,7 +9,7 @@
 
 ## Summary
 
-Access `robots.txt` to get the flag.
+Use an online site to find the answer.
 
 ## Detailed Solution
 
