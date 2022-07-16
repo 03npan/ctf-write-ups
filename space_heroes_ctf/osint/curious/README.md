@@ -5,7 +5,7 @@
 
 > Flag format: shctf{SOL_xxx}
 
->[dunes.png](https://github.com/03npan/ctf-write-ups/blob/main/space_heroes_ctf/osint/curious/dunes.png)
+>[dunes.PNG](https://github.com/03npan/ctf-write-ups/blob/main/space_heroes_ctf/osint/curious/dunes.PNG)
 
 > Author: Isaiah
 
