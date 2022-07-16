@@ -5,7 +5,7 @@
 
 > author: GlitchArchetype
 
->[dunes.png](https://github.com/03npan/ctf-write-ups/blob/main/space_heroes_ctf/osint/launched/launch.png)
+>[launch.jpg](https://github.com/03npan/ctf-write-ups/blob/main/space_heroes_ctf/osint/launched/launch.jpg)
 
 ## Summary
 
