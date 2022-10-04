@@ -7,7 +7,7 @@
 >
 > Can you get the flag?
 >
-> Run this [Python program](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/reverse_engineering/bloat_py/bloat.flag.py) in the same directory as this [encrypted flag](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/reverse_engineering/bloat_py/flag.txt.enc).
+> Run this [Python program](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/reverse_engineering/bloat_py/bloat.flag.py) in the same directory as this [encrypted flag](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/reverse_engineering/bloat_py/flag.txt.enc).
 
 Tags: *Reverse Engineering, obfuscation*
 
