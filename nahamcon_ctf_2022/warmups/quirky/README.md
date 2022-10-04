@@ -5,7 +5,7 @@
 
 > This file is seems to have some strange pattern...
 
-> Download the [file](https://github.com/03npan/ctf-write-ups/blob/main/nahamcon_ctf_2022/warmups/quirky/quirky)
+> Download the [file](quirky)
 
 Tags: *Warmups*
 
