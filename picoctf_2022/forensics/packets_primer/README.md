@@ -5,7 +5,7 @@
 >
 > Description
 >
-> Download the [packet capture file](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/forensics/packets_primer/drawing.flag.svg) and use packet analysis software to find the flag.
+> Download the [packet capture file](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/forensics/packets_primer/network-dump.flag.pcap) and use packet analysis software to find the flag.
 
 Tags: *Forensics, pcap*
 
