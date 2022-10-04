@@ -7,7 +7,7 @@
 >
 > We found a leak of a blackmarket website's login credentials. Can you find the password of the user cultiris and successfully decrypt it?
 >
-> Download the leak [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/cryptography/credstuff/leak.tar).
+> Download the leak [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/cryptography/credstuff/leak.tar).
 >
 > The first user in usernames.txt corresponds to the first password in passwords.txt. The second user corresponds to the second password, and so on.
 

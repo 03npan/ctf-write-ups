@@ -7,7 +7,7 @@
 >
 > Can you decrypt this message?
 >
-> Decrypt this [message](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/cryptography/vigenere/cipher.txt) using this key "CYLAB".
+> Decrypt this [message](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/cryptography/vigenere/cipher.txt) using this key "CYLAB".
 
 Tags: *Cryptography*
 

@@ -7,7 +7,7 @@
 >
 > Can you get the flag?
 >
-> Reverse engineer this [Python program](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/reverse_engineering/unpackme_py/unpackme.flag.py).
+> Reverse engineer this [Python program](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/reverse_engineering/unpackme_py/unpackme.flag.py).
 
 Tags: *Reverse Engineering, packing*
 
@@ -21,6 +21,6 @@ When running the program, it asks for a password. Open the program to see if we 
 
 On the line before the `exec` call, add `print(plain.decode())`. Run the program again.
 
-![decoded_payload.png](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/reverse_engineering/unpackme_py/decoded_payload.png)
+![decoded_payload.png](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/reverse_engineering/unpackme_py/decoded_payload.png)
 
 We don't need the password; we see the flag: `picoCTF{175_chr157m45_5274ff21}`

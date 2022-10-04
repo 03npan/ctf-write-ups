@@ -7,7 +7,7 @@
 >
 > This file was found among some files marked confidential but my pdf reader cannot read it, maybe yours can.
 >
-> You can download the file from [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/forensics/file_types/Flag.pdf).
+> You can download the file from [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/forensics/file_types/Flag.pdf).
 
 Tags: *Forensics*
 

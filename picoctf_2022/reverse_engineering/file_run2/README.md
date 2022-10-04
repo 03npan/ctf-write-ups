@@ -7,7 +7,7 @@
 >
 > Another program, but this time, it seems to want some input. What happens if you try to run it on the command line with input "Hello!"?
 >
-> Download the program [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/reverse_engineering/file_run2/run).
+> Download the program [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/reverse_engineering/file_run2/run).
 
 Tags: *Reverse Engineering*
 
