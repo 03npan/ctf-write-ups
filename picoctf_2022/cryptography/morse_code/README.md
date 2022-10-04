@@ -7,7 +7,7 @@
 >
 > Morse code is well known. Can you decrypt this?
 >
-> Download the file [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/cryptography/morse_code/morse_chal.wav).
+> Download the file [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/cryptography/morse_code/morse_chal.wav).
 >
 > Wrap your answer with picoCTF{}, put underscores in place of pauses, and use all lowercase.
 
@@ -19,7 +19,7 @@ Use Audacity to analyze the morse code audio.
 
 ## Detailed Solution
 
-![audacity.png](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/cryptography/morse_code/audacity.png)
+![audacity.png](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/cryptography/morse_code/audacity.png)
 
 It's pretty easy to piece the morse code together into the flag once we see this.
 

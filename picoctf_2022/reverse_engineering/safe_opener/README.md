@@ -7,7 +7,7 @@
 >
 > Can you open this safe?
 >
-> I forgot the key to my safe but this [program](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/reverse_engineering/safe_opener/SafeOpener.java) is supposed to help me with retrieving the lost key. Can you help me unlock my safe?
+> I forgot the key to my safe but this [program](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/reverse_engineering/safe_opener/SafeOpener.java) is supposed to help me with retrieving the lost key. Can you help me unlock my safe?
 >
 > Put the password you recover into the picoCTF flag format like:
 >

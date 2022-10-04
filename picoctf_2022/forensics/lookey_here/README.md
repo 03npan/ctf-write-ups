@@ -7,7 +7,7 @@
 >
 > Attackers have hidden information in a very large mass of data in the past, maybe they are still doing it.
 >
-> Download the data [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/forensics/lookey_here/anthem.flag.txt).
+> Download the data [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/forensics/lookey_here/anthem.flag.txt).
 
 Tags: *Forensics, grep*
 

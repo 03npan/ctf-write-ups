@@ -7,7 +7,7 @@
 >
 > Can you get the flag?
 >
-> Reverse engineer this [Java program](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/reverse_engineering/fresh_java/KeygenMe.class).
+> Reverse engineer this [Java program](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/reverse_engineering/fresh_java/KeygenMe.class).
 
 Tags: *Reverse Engineering, Java*
 

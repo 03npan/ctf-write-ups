@@ -4,7 +4,7 @@
 > AUTHOR: LT 'SYREAL' JONES
 >
 > Description
-> Download the [disk image](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/forensics/sleuthkit_intro/disk.img.gz) and use `mmls` on it to find the size of the Linux partition. Connect to the remote checker service to check your answer and get the flag.
+> Download the [disk image](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/forensics/sleuthkit_intro/disk.img.gz) and use `mmls` on it to find the size of the Linux partition. Connect to the remote checker service to check your answer and get the flag.
 >
 > Access checker program: nc saturn.picoctf.net 52279
 

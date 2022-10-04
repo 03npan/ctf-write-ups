@@ -7,7 +7,7 @@
 >
 > Can you get the flag?
 >
-> Download this [binary](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/reverse_engineering/gdb_test_drive/gdbme).
+> Download this [binary](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/reverse_engineering/gdb_test_drive/gdbme).
 >
 > Here's the test drive instructions:
 >

@@ -5,7 +5,7 @@
 >
 > Description
 >
-> Download the message [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/cryptography/substitution0/message.txt).
+> Download the message [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/cryptography/substitution0/message.txt).
 >
 > Could the string at the top be a hint?
 >

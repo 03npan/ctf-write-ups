@@ -7,7 +7,7 @@
 >
 > A program has been provided to you, what happens if you try to run it on the command line?
 >
-> Download the program [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf-2022/reverse_engineering/file_run1/run).
+> Download the program [here](https://github.com/03npan/ctf-write-ups/blob/main/picoctf_2022/reverse_engineering/file_run1/run).
 
 Tags: *Reverse Engineering*
 
